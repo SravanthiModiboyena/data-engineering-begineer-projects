@@ -2,7 +2,7 @@
 
 
 
-\## 📌 Project Overview
+\##  Project Overview
 
 This project analyzes retail sales data using SQL. 
 
@@ -14,7 +14,7 @@ The goal is to generate business insights such as total revenue, top products, a
 
 
 
-\## 🛠 Tools Used
+\##  Tools Used
 
 \- MySQL
 
@@ -26,7 +26,7 @@ The goal is to generate business insights such as total revenue, top products, a
 
 
 
-\## 📂 Dataset Description
+\##  Dataset Description
 
 
 
@@ -56,7 +56,7 @@ The dataset contains the following columns:
 
 
 
-\## 🔍 SQL Concepts Covered
+\##  SQL Concepts Covered
 
 
 
@@ -76,7 +76,7 @@ The dataset contains the following columns:
 
 
 
-\## 📊 Analysis Performed
+\##  Analysis Performed
 
 
 
@@ -124,7 +124,7 @@ CREATE INDEX idx\_region ON sales(region);
 
 
 
-\## 🚀 Key Insights
+\##  Key Insights
 
 
 
@@ -140,7 +140,7 @@ CREATE INDEX idx\_region ON sales(region);
 
 
 
-\## 📁 Project Structure
+\##  Project Structure
 
 
 
@@ -164,7 +164,7 @@ CREATE INDEX idx\_region ON sales(region);
 
 
 
-\## 👩‍💻 Author
+\##  Author
 
 Sravanthi
 
